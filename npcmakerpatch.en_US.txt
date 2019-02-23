@@ -2,6 +2,7 @@
 
 + Added "Kills_Player" condition
 + Fixed vendor items display
++ Improved style of "Quests" and "Vendor" tabs
 
 0.9.0.3
 
