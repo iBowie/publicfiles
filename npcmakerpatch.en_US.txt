@@ -1,3 +1,11 @@
+0.9.2.0
+
++ Added new settings menu
++ Autosave now affects dialogues, vendors, quests and NPC independently
++ Improved English localization
++ GUID generation now can be disabled (you asked for it)
++ GUIDs now can be generated again
+
 0.9.1.1
 
 + Fixed "Deep Analysis" for English translation
