@@ -1,3 +1,11 @@
+0.9.3.0
+
++ Fixed app crash on launch when launched first time on the pc
++ Optimized .npc file
++ Haircuts and beards now change colors
++ Save critical errors to log
++ Other bugs fixing
+
 0.9.2.1.
 
 + Added basic logging in "npcmaker.log" file
