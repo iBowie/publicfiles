@@ -1,3 +1,12 @@
+0.9.4.0
+
++ Save optimization
++ Fixed "Unsaved work" appear when using "Open with"
++ Removed configuration save on language change
++ Added a "Randomize" button to face, haircut and beard.
++ Fixed an error when vendor id won't appear in the exported NPC
++ Export optimization
+
 0.9.3.1
 
 + Added "Go to result" button on export notification.
