@@ -6,6 +6,7 @@
 + If you click on error tab where mistake is made will be opened
 + Error descriptions now more useful
 + Added new errors
++ Fixed a lot of bugs
 
 0.9.4.1
 
