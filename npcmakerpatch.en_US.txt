@@ -1,3 +1,7 @@
+0.9.5.1
+
++ Russian localization fix
+
 0.9.5.0
 
 + Added the "Kills_Object" condition
