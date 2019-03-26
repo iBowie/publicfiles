@@ -1,3 +1,17 @@
+1.0.0.0
+
++ System theme not available (because it had too much errors)
++ Added HSV palette
++ Fixed all bugs associated with digit input
++ More catched mistakes
++ App updates through GitHub now instead of Google Drive.
++ More themes
++ Fixed user colors
++ When enabled experimental mode color sliders more informative
++ Fixed "Save as" button to work properly
++ Discord Rich Presence now has other formatting
++ Added button "New" to "File"
+
 0.9.5.2
 
 + Fixed export
