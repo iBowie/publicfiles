@@ -1,3 +1,7 @@
+1.0.0.1
+
++ Fixed Russian localization
+
 1.0.0.0
 
 + System theme not available (because it had too much errors)
