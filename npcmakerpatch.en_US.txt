@@ -1,3 +1,10 @@
+1.0.1.0
+
++ App now doesn't have to create external libraries.
++ Automatic Updates on application close.
++ More catched mistakes, when you click on mistake it opens tab where mistake was made
++ Tooltips now have helpful images
+
 1.0.0.1
 
 + Fixed Russian localization
