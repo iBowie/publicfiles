@@ -1,3 +1,9 @@
+1.0.1.1
+
++ Discord Rich Presence now enabled always, but you can always hide details of what are you doing (more private than Google Chrome)
++ Fixed Russian localization (but you don't care, right?)
++ Added tooltips to "In-game display" of conditions and rewards (come on, tell me about you don't have questions about it)
+
 1.0.1.0
 
 + App now doesn't have to create external libraries.
