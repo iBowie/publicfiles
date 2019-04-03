@@ -1,3 +1,7 @@
+1.0.2.1
+
++ A lot of bug fixes (But doesn't it not enough? You want new features? Wait some time!)
+
 1.0.1.1
 
 + Discord Rich Presence now enabled always, but you can always hide details of what are you doing (more private than Google Chrome)
