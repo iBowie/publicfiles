@@ -1,3 +1,7 @@
+1.0.2.2
+
++ Fixed "Add Reply" and "Add Message" buttons. Weird bug, but now it's fixed
+
 1.0.2.1
 
 + A lot of bug fixes (But doesn't it not enough? You want new features? Wait some time!)
