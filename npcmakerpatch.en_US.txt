@@ -1,3 +1,10 @@
+1.0.3.0
+
++ Added hotkeys (save, load, export, new NPC)
++ Added Christmas and Halloween clothing editor
++ Unturned and User colors now in the same groupbox
++ Error messages if Condition or Reward filled wrong
+
 1.0.2.2
 
 + Fixed "Add Reply" and "Add Message" buttons. Weird bug, but now it's fixed
