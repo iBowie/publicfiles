@@ -1,3 +1,8 @@
+1.0.4.0
+
++ Fixed "Visibility in messages" in responses (require a lot of tests from users)
++ Fixed App updates (probably, so it require a lot of tests from users too)
+
 1.0.3.0
 
 + Added hotkeys (save, load, export, new NPC)
