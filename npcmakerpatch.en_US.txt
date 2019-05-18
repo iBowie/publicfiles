@@ -1,3 +1,17 @@
+1.0.5.0
+
++ Added multicharacter editor! Finally you can do not open 10 windows at the same time...
++ Added "Amount" to Vendor Item Editor (important)
++ Removed Log_Level (who does needs it anyway?)
++ Fluent Conditions - 100% like in-game!
++ Fluent Rewards
+- Old NPCs now partially compatible
++ Animation can be turned off
++ Icons now have dynamic colors! Shiny!
++ Updated to .NET Framework 4.7.2
++ Discord Rich Presence improved
++ Bug fixes
+
 1.0.4.1
 
 + Spawnpoints now accepts text as it Unturned do.
