@@ -1,3 +1,7 @@
+1.0.5.2
+
++ Fixed "Visibility Conditions" in character editor
+
 1.0.5.1
 
 + Fixed bug that makes unable to load zero-id NPCs
