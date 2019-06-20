@@ -1,3 +1,12 @@
+1.0.6.0
+
++ Fixed export crashing if nothing exported
++ Fixed empty GUID line in character file
++ Autoupdate now optional
++ UI improvements
++ Added new "Orange Theme"
++ Fixed "Reward_Localization" and "Condition_Localization"
+
 1.0.5.2
 
 + Fixed "Visibility Conditions" in character editor
