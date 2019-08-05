@@ -1,3 +1,7 @@
+1.0.6.3
+
++ Added "Disable Sorting" option to vendors.
+
 1.0.6.2
 
 + Fixed crash. Thanks to "Mr_split_yo_base#8047" for report
